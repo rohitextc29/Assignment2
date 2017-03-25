@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="add_local">Add your local place</string>
+    <string name="Mumbai">"Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry."</string>
+    <string name="Pune">"Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi, whose ashes are preserved in the garden. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva."</string>
+    <string name="Kolkata">"Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Founded as an East India Company trading post, it was India's capital under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. It’s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on site."</string>
+    <string name="Hyderabad">"Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar."</string>
+    <string name="Bengaluru">"Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure."</string>
+    <string name="Delhi">"Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls."</string>
+    <string name="Jaipur">"Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence."</string>
+    <string name="Chennai">"Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city’s roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary’s, a 17th-century Anglican church."</string>
+
+    <string-array name="Mumbai_famous">
+        <item>Gateway Of India</item>
+        <item>Elephanta Caves</item>
+    </string-array>
+    <string-array name="Mumbai_famous_desc">
+        <item>"The Gateway of India is a monument built during the 20th century in Mumbai City of Maharashtra state in Western India. It is located on the waterfront in the Apollo Bunder area in South Mumbai and overlooks the Arabian Sea."</item>
+        <item>"Elephanta Caves are a network of sculpted caves located on Elephanta Island, or Gharapuri in Mumbai Harbour, 10 kilometres to the east of the city of Mumbai in the Indian state of Maharashtra."</item>
+    </string-array>
+
+    <string-array name="Pune_famous">
+        <item>Shaniwar Wada</item>
+        <item>Pataleshwar</item>
+    </string-array>
+    <string-array name="Pune_famous_desc">
+        <item>"TShaniwarwada (Śanivāravāḍā) is a historical fortification in the city of Pune in Maharashtra, India. Built in 1732,[1] it was the seat of the Peshwas of the Maratha Empire until 1818, when the Peshwas lost control to the British East India Company after the Third Anglo-Maratha War. Following the rise of the Maratha Empire, the palace became the center of Indian politics in the 18th century."</item>
+        <item>"The Pataleshwar Cave Temple is a rock-cut cave temple, carved out in the 8th century in the Rashtrakuta period. It is located in what is now Pune, in the state of Maharashtra, India."</item>
+    </string-array>
+
+    <string-array name="Kolkata_famous">
+        <item>Howrah Bridge</item>
+        <item>Indian Museum</item>
+    </string-array>
+    <string-array name="Kolkata_famous_desc">
+        <item>"Howrah Bridge is a cantilever bridge with a suspended span over the Hooghly River in West Bengal, India."</item>
+        <item>"The Indian Museum is the largest and oldest museum in India and has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies, and Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata, India, in 1814."</item>
+    </string-array>
+
+    <string-array name="Hyderabad_famous">
+        <item>Golkonda</item>
+        <item>Charminar</item>
+    </string-array>
+    <string-array name="Hyderabad_famous_desc">
+        <item>"Golkonda, also known as Golconda, Gol konda, or Golla konda, is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty, is situated 11 kilometres west of Hyderabad."</item>
+        <item>"The Charminar, constructed in 1591 CE, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India."</item>
+    </string-array>
+
+    <string-array name="Bengaluru_famous">
+        <item>Lal Bagh</item>
+        <item>Cubbon Park</item>
+    </string-array>
+    <string-array name="Bengaluru_famous_desc">
+        <item>"Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southern Bengaluru, India."</item>
+        <item>"Cubbon Park is a landmark 'lung' area of the Bengaluru city, located within the heart of city in the Central Administrative Area."</item>
+    </string-array>
+
+    <string-array name="Delhi_famous">
+        <item>The Red Fort</item>
+        <item>Qutb Minar</item>
+    </string-array>
+    <string-array name="Delhi_famous_desc">
+        <item>"The Red Fort is a historical fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1857. It is located in the center of Delhi and houses a number of museums."</item>
+        <item>"Qutb Minar, at 73 metres, is world's tallest rubble masonry minaret. Qutb Minar, along with the ancient and medieval monuments surrounding it, form the Qutb complex, which is a UNESCO World Heritage Site."</item>
+    </string-array>
+
+    <string-array name="Jaipur_famous">
+        <item>Hawa Mahal</item>
+        <item>Amer Fort</item>
+    </string-array>
+    <string-array name="Jaipur_famous_desc">
+        <item>"Hawa Mahal is a palace in Jaipur, India, so named because it was essentially a high screen wall built so the women of the royal household could observe street festivals while unseen from the outside."</item>
+        <item>"Amer Fort is located in Amer, a town with an area of 4 square kilometres located 11 kilometres from Jaipur, Rajasthan state, India. Located high on a hill, it is the principal tourist attraction in the Jaipur area."</item>
+    </string-array>
+
+    <string-array name="Chennai_famous">
+        <item>Marina Beach</item>
+        <item>Ripon Building</item>
+    </string-array>
+    <string-array name="Chennai_famous_desc">
+        <item>"Marina Beach is a natural urban beach in the city of Chennai, India, along the Bay of Bengal."</item>
+        <item>"The Ripon Building is the seat of the Chennai Corporation in Chennai, Tamil Nadu. It is a fine example of the Neoclassical style of architecture, a combination of Gothic, Ionic and Corinthian."</item>
+    </string-array>
+</resources>
